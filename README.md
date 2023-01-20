@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Aman3073
 
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in Data Science and Machine Learning Job
 
 - 🌱 I’m currently learning Deep Learning
 
